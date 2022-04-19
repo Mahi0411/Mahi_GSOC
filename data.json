@@ -1,0 +1,151 @@
+{
+    "question": [
+      "Q1. What house at Hogwarts does Harry belong to?",
+      "Q2. What position does Harry play on his Quidditch team?",
+      "Q3. How did Harry get the scar on his forehead?",
+      "Q4. What does the Sorcere's Stone do?",
+      "Q5. Who is Fluffy?",
+      "Q6. What power do the dementors have over people?",
+      "Q7. What does the Imperius Curse do?",
+      "Q8. Who poses as Mad-Eye Moody, Harry's 4th year Defense Against the Dark Arts professor?",
+      "Q9. What is an Auror?",
+      "Q10. Who kills Professor Dumbledore?",
+      "Q11. How does Harry catch his first snitch? ",
+      "Q12. What does the Mirror of Erised do?",
+      "Q13. What is the name of the first Harry Potter book?",
+      "Q14. Who is Grawp?",
+      "Q15. How are Hogwarts students placed in their houses?",
+      "Q16. Before his second year at Hogwarts, how do the Weasley's save Harry from the Dursley's house?",
+      "Q17. What magical talent does Harry share with Voldemort?",
+      "Q18. According to the Sorting Hat what qualities does Ravenclaw possess?",
+      "Q19. How did Moaning Myrtle die?",
+      "Q20. How does Fawkes the Phoenix save Harry?"
+
+    ],
+    "answer": [
+      2,
+      3,
+      2,
+      4,
+      3,
+      3,
+      1,
+      4,
+      2,
+      4,
+      2,
+      2,
+      1,
+      3,
+      2,
+      3,
+      3,
+      2,
+      4,
+      1 
+    ],
+    "options": [
+  
+      ["RAVENCLAW",
+        "GRYFFINDOR",
+        "SLYTHERIN",
+        "HUFFLEPUFF"
+      ],
+      ["KEEPER",
+        "BLUDGER",
+        "SEEKER",
+        "CHASER"
+      ],
+      ["IN A QUIDDITCH ACCIDENT",
+        "VOLDEMORT TRIED TO KILL HIM WHEN HE WAS A BABY",
+        "HE CRASHED THE WEASLEY'S CAR INTO THE WHOMPING TREE",
+        "HE WAS ATTACKED BY A BASILISK"
+      ],
+      ["TRANSFORS THE ONE WHO HOLDS IT INTO AN ANIMAL",
+        "MAKES THE ONE THAT HOLDS IT INVISIBLE",
+        "TELLS THE ONE THAT HOLDS IT THEIR FUTURE",
+        "TRANSFORMS ANY METAL INTO GOLD & PRODUCES THE ELIXER OF LIFE"
+      ],
+      ["HARRY'S OWL",
+        "HAGRID'S DRAGON",
+        "A THREE-HEADED DOG",
+        "HERMIONE'S CAT"
+      ],
+      ["THEY CAUSE THEM TO HARM ONE ANOTHER",
+        "THEY MAKE THEM DO THEIR BIDDING",
+        "THEY DRAIN THEM OF ALL HAPPINESS",
+        "THEY MAKE THEM GO CRAZY"
+      ],
+      ["CONTROLS",
+        "TURNS THE PERSON INTO A PIG",
+        "KILLS",
+        "TORTURES"
+      ],
+      ["VOLDEMORT",
+        "SIRIUS BLACK",
+        "PETER PETTIGREW",
+        "BARTY CROUCH, JR."
+      ],
+      ["A PROFESSIONAL QUIDDITCH PLAYER",
+        "A PERSON THAT CATCHES DARK WIZARDS",
+        "A WIZARD THAT CAN CHANGE HIS APPEARANCE AT WILL",
+        "A CAREER COUNSELOR AT HOGWARTS"
+      ],
+      ["BELLATRIX LESTRANGE",
+        "DRACO MALFOY",
+        "FENRIR  GREYBACK",
+        "SEVERUS SNAPE"
+      ],
+      ["WITH HIS BROOM",
+        "IN HIS MOUTH",
+        "IN HIS HAT",
+        "WITH HIS FEET"
+      ],
+      ["MAKES YOU APPEAR BEAUTIFUL TO OTHERS",
+        "SHOWS YOUR HEART'S DESIRE",
+        "GIVES YOU WARTS",
+        "TELLS THE FUTURE"
+      ],
+      ["HARRY POTTER AND THE PHILOSPHER'S STONE",
+        "HARRY POTTER AND THE SORCERER'S STONE",
+        "HARRY POTTER AND THE CHAMBER OF SECRETS",
+        "HARRY POTTER AND THE DRAGON'S FIRE"
+      ],
+      ["A CENTAUR",
+        "RON'S OWL",
+        "HAGRID'S HALF BROTHER",
+        "SIRIUS' HOUSE ELF"
+      ],
+      ["THEY'RE INN THE SAME HOUSE AS THEIR PARENTS",
+        "THE SORTING HAT",
+        "THEY'RE ASSIGNED BY PROFESSOR DUMBLEDORE",
+        "THEY DRAW STRAWS"
+      ],
+      ["A PORTKEY",
+        "AN ENCHANTED BROOM",
+        "A FLYING CAR",
+        "FLOO POWDER"
+      ],
+      ["HE'S AN AUROR",
+        "HE USES THE CRUCIATUS CURSE",
+        "HE'S A PARSELMOUTH",
+        "HE'S AN ANIMAGUS"
+      ],
+      ["CUNNING AND DECEIT",
+        "WIT AND LEARNING",
+        "DARING AND NERVE",
+        "PATIENCE AND LOYALTY"
+      ],
+      ["THE WHOMPING WILLOW",
+        "A MOUNTAIN TROLL",
+        "THE KILLING CURSE",
+        "THE BASILISK"
+      ],
+      ["HIS TEARS",
+        "HIS SPIT",
+        "HE FLIES AWAY TO GET HELP",
+        "HE SQUAWKS UNTIL HELP ARRIVES"
+      ]
+      
+    ]
+  }
